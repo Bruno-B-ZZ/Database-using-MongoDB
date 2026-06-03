@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6a1b6d4af4c8ebcefa626ca9"
+  },
+  "nome_funcionario": "Ana Maria Carvalho",
+  "id_funcionario": 1,
+  "remuneracao": 1200,
+  "tipo_arte": "Ilustracao",
+  "departamento": {
+    "id_departamento": {
+      "$oid": "6a1b64b8f236280b6d71d237"
+    },
+    "num_sala": 101
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1b6d4af4c8ebcefa626caa"
+  },
+  "nome_funcionario": "Carlos de Oliveira",
+  "id_funcionario": 2,
+  "remuneracao": 1150,
+  "linguagem_programacao": "C++",
+  "software": "GameMaker",
+  "departamento": {
+    "id_departamento": {
+      "$oid": "6a1b65c2f236280b6d71d238"
+    },
+    "num_sala": 102
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1b7556f4c8ebcefa626cad"
+  },
+  "nome_funcionario": "Casandra Lima",
+  "id_funcionario": 3,
+  "remuneracao": 1500,
+  "tipo_instrumento": "Violino",
+  "departamento": {
+    "id_departamento": {
+      "$oid": "6a1b65c2f236280b6d71d238"
+    },
+    "num_sala": 102
+  }
+}]

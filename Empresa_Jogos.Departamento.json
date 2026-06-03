@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6a1b64b8f236280b6d71d237"
+  },
+  "nome_departamento ": " departamento New",
+  "num_sala": "s101"
+},
+{
+  "_id": {
+    "$oid": "6a1b65c2f236280b6d71d238"
+  },
+  "nome_departamento ": " departamento Santos",
+  "num_sala": "s102"
+}]

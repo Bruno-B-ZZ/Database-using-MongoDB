@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "6a1b7450bd25b03bdfe38a1f"
+  },
+  "nome_diretor": "Daniel Santana Barros",
+  "especializacao": "Programacao",
+  "qtd_de_projetos": {
+    "projeto_concluido": [
+      "Mineirinho Ultra Adventures",
+      "Persona 5"
+    ],
+    "Projeto_desenvolvim": [
+      "Persona 6",
+      "Deltarune Chapter 5"
+    ]
+  },
+  "id_diretor": 2,
+  "departamento": {
+    "id_departamento": {
+      "$oid": "6a1b64b8f236280b6d71d238"
+    },
+    "num_sala": "s102"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a1b7450bd25b03bdfe38a20"
+  },
+  "nome_diretor": "Carla de Andrade",
+  "especializacao": [
+    "musica",
+    "Financias"
+  ],
+  "qtd_de_projetos": {
+    "projeto_concluido": "Minecraft",
+    "Projeto_desenvolvim": [
+      "Hollow Knight 3",
+      "Deltarune Chapter 5"
+    ]
+  },
+  "id_diretor": 3
+},
+{
+  "_id": {
+    "$oid": "6a1b7253bd25b03bdfe38a1e"
+  },
+  "nome_diretor": "Carolina dos Santos",
+  "especializacao": "Arte",
+  "qtd_de_projetos": {
+    "projeto_concluido": [
+      "SMT 3",
+      "Persona 4"
+    ],
+    "Projeto_desenvolvim": "Persona 6"
+  },
+  "id_diretor": 1,
+  "departamento": {
+    "id_departamento": {
+      "$oid": "6a1b64b8f236280b6d71d237"
+    },
+    "num_sala": "s101"
+  }
+}]
